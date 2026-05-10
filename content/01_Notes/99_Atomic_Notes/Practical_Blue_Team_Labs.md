@@ -1,0 +1,1 @@
+A Blue Team training platform focused on practical defensive labs, incident response, and digital forensics (DFIR).

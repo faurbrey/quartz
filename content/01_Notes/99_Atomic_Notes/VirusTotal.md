@@ -1,0 +1,1 @@
+A security platform that aggregates many antivirus products and online scan engines to analyze suspicious files, domains, IPs, and URLs for malware.

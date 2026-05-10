@@ -1,0 +1,1 @@
+An online platform for learning cybersecurity through hands-on labs and 'rooms.' Specifically used in this course for the 'Introduction to Cyber' learning path.

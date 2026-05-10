@@ -1,0 +1,1 @@
+A Linux toolkit specifically designed for malware analysis and reverse engineering. Includes tools like emldump and msgconvert for analyzing malicious email artifacts.

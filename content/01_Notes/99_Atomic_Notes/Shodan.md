@@ -1,0 +1,1 @@
+A search engine that indexes every connected device on the internet. Used in reconnaissance to identify public-facing assets, open ports, and vulnerable software versions (e.g., outdated Apache servers).

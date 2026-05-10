@@ -1,0 +1,1 @@
+A massive platform for practical cybersecurity training. Progress in HTB Academy contributes to the 'Forum' portion (15%) of the course grade.
