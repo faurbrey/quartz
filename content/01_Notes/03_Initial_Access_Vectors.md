@@ -29,4 +29,4 @@ The "Identity-Targeted" vector. Attackers bypass perimeters by simply logging in
 | **Local Storage** | KeePassXC, Gopass | Maximum privacy, Air-gapped |
 
 ---
-[[START HERE|Return to Home]]
+[[index|Return to Home]]
