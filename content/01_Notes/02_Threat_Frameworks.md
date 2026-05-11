@@ -21,4 +21,4 @@ Moves focus from *what* we are protecting to *how* attackers actually operate.
 - **Blue Team:** Defensive security. They monitor traffic and implement firewalls.
 
 ---
-[[START HERE|Return to Home]]
+[[index|Return to Home]]
